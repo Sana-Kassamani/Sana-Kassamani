@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sana Kassamani</h1>
-<h3 align="center">Passionate software developer, curious about learning new technologies, and in love with writing clean code</h3>
+<h3 align="center">Passionate Software Developer, curious about learning new technologies, and in love with writing clean code</h3>
 
 - 🌱 I’m currently learning **Laravel and React**
 
