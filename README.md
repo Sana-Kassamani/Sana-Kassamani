@@ -17,6 +17,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sana-Kassamani&show_icons=true&locale=en&layout=compact&theme=aura" alt="sana-kassamani" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sana-Kassamani&show_icons=true&locale=en&include_all_commits=true&theme=aura" alt="sana-kassamani" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sana-Kassamani&show_icons=true&locale=en&include_all_commits=false&theme=aura" alt="sana-kassamani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sana-Kassamani&theme=aura" alt="sana-kassamani" /></p>
