@@ -1,4 +1,4 @@
-![My Banner](https://raw.githubusercontent.com/Sana-Kassamani/Sana-Kassamani//assets/banner.png)
+![My Banner](./assets/banner.png)
 
 <h1 align="center">Hi 👋, I'm Sana Kassamani</h1>
 <h3 align="center">Passionate Software Developer, curious about learning new technologies, and in love with writing clean code</h3>
